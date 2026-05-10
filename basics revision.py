@@ -7,3 +7,12 @@ elif "Mrs" in name:
     print("You are a woman, married woman !")
 else:
     print("You need to have at least one initial like mr or mrs!")
+
+
+#for loop revision:
+
+for i in range(5,50):
+    if i %2 == 0:
+        print(i)
+    elif i % 2 == 1:
+        print(i)

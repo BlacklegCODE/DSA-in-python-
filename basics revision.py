@@ -16,3 +16,5 @@ for i in range(5,50):
         print(i)
     elif i % 2 == 1:
         print(i)
+#range usage:
+print(list(range(5,50,5)))

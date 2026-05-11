@@ -18,3 +18,12 @@ for i in range(5,50):
         print(i)
 #range usage:
 print(list(range(5,50,5)))
+
+for i in range(1,20,1):
+    if i > 18:
+        print("Digits after 18")
+    elif i < 18:
+        print("digits before 18")
+        print(i)
+        
+        
